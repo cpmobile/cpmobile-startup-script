@@ -1,4 +1,12 @@
-cpmobile-startup-script
-=======================
+# Concept Plus Mobile Development Environment Setup (Mac)
 
-This is a startup script to get your Mac ready for hybrid-mobile development using cordova, angular, and ionic.
+Read the following instructions to get your Mac ready for mobile development.
+
+[Mobile Workstation Setup Guide](https://wiki.conceptplusllc.net/display/mobile/Mobile+Workstation+Setup+Guide)
+
+
+
+
+
+
+
